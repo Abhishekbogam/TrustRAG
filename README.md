@@ -176,7 +176,7 @@ https://console.groq.com/keys
 
 1️⃣ Clone the Repository
 
-    git clone https://github.com//TrustRAG.git
+    git clone https://github.com/Abhishekbogam/TrustRAG.git
     cd TrustRAG
 
 2️⃣ Create a Virtual Environment

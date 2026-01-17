@@ -227,7 +227,3 @@ Frontend will open at:
 TrustRAG demonstrates how RAG systems can be built responsibly, transparently, and at production quality — especially for technical domains where correctness and trust matter.
 
 This project is not just a chatbot, but a retrieval-first, source-aware AI system.
-
-##  Architecture
-
-![System Architecture](https://github.com/Abhishekbogam/Dummy/raw/1dad28efcf3dd4a94de1b27284de9efc3decacfa/RAG_APPLication.png)

@@ -1,2 +1,0 @@
-# TrustRAG
-TrustRAG
